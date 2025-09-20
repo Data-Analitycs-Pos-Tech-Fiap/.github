@@ -1,5 +1,5 @@
-# 📊 Data Analytics - Pós Tech FIAP  
-Bem-vindo(a)! Esta organização reúne projetos da pós-graduação em Data Analytics da FIAP, com foco em:  
+# 📊DataForge - Projects
+Bem-vindo(a)! Esta organização reúne projetos de Data Analytics, com foco em:  
 
 ✅ Análises de dados reais (IBGE, mercado financeiro, etc.).  
 ✅ Modelos preditivos e Machine Learning.  
